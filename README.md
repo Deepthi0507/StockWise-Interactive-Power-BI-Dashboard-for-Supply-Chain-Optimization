@@ -1,8 +1,8 @@
 # StockWise-Interactive-Power-BI-Dashboard-for-Supply-Chain-Optimization
 ### 🎯 Project Overview
 
-This project focuses on analyzing and optimizing inventory and supply chain performance through an interactive *Power BI dashboard*.
-The goal is to help businesses *reduce operational inefficiencies, **optimize stock levels, and **improve delivery performance* by turning raw supply chain data into actionable insights.
+This project focuses on analyzing and optimizing inventory and supply chain performance through an interactive Power BI dashboard.
+The goal is to help businesses reduce operational inefficiencies, optimize stock levels, and improve delivery performance by turning raw supply chain data into actionable insights.
 
 
 
@@ -42,10 +42,9 @@ This project aims to *visualize key KPIs* across the supply chain lifecycle to s
 
 | KPI                            | Description                                                  |
 | ------------------------------ | ------------------------------------------------------------ |
-| 🏬 *Total Inventory Value*   | Total stock value across all locations                       |
-| ⏱️ *Average Delivery Time*   | Average time taken from order placement to delivery          |
+| ⏱️ *Days sales of inventory*   | Average number of  days to sell inventory       |
 | 🏗️ *Warehouse Utilization*  | Percentage of available warehouse space used efficiently     |
-| 💸 *Stock Turnover Ratio*    | Speed at which inventory is sold and replaced                |
+| 💸 *inventory Turnover Ratio*    | Speed at which inventory is sold and replaced                |
 
 
 
