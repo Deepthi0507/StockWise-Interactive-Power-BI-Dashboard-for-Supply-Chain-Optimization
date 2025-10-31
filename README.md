@@ -58,7 +58,7 @@ The Power BI dashboard provides a *comprehensive view of the supply chain ecosys
 * 💰 *Sales vs. Stock Trend* analysis to identify demand gaps
 * ⚙️ *Supplier Ranking* based on performance metrics
 
----
+
 
 ### 📁 Dataset
 
