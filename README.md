@@ -78,6 +78,8 @@ The dataset consists of multiple tables:
 5. *Dashboard Design* – Developed interactive visuals and slicers for real-time filtering
 6. *Insights & Recommendations* – Identified trends and proposed data-backed optimizations
 
+## 📰Dashboard
+<img width="591" height="330" alt="image" src="https://github.com/user-attachments/assets/7ca583cc-01c9-4249-b9ba-62fc3000bf0f" />
 
 
 ### 💡 Insights & Recommendations
